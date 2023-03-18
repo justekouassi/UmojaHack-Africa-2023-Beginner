@@ -17,5 +17,8 @@
 
 ## Soumissions
 
-|Dates|Heures|100% test set|20% test set|Rang|
-|:-|:-|:-|:-|:-|
+- encodage
+- normalisation
+- feature selection
+- gestion des valeurs manquantes
+- bon modèle
